@@ -1,0 +1,3 @@
+[submodule "GDrive_sdk"]
+	path = GDrive_sdk
+	url = https://github.com/hatim-haffane/GDrive_sdk.git
